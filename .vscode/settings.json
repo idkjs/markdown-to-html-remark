@@ -1,0 +1,14 @@
+{
+  "remark.format": {
+    "plugins": ["first-heading", "github"],
+    "rules": {
+      "closeAtx": true
+    },
+    "github": {
+      "repository": "https://github.com/idkjs/reason-weather-fetch-demo"
+    },
+    "first-heading": {
+      "heading": "Hello, from VS Code Settings!"
+    }
+  }
+}
